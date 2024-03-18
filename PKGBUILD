@@ -1,5 +1,5 @@
-# Maintainer: Jan Alexander Steffens (heftig) <heftig@archlinux.org>
-# Contributor: Jan de Groot <jgc@archlinux.org>
+# Maintainer: ryuukk_ <ryuukk.dev@gmail.com>
+# Contributor: ryuukk_ <ryuukk.dev@gmail.com>
 
 pkgbase=freetype2
 pkgname=(
@@ -10,7 +10,7 @@ pkgname=(
 pkgver=2.13.2
 pkgrel=1
 epoch=
-pkgdesc="Font rasterization library"
+pkgdesc="Font rasterization library with a patch to make it render text like on macOS"
 url="https://www.freetype.org/"
 arch=(
   x86_64
